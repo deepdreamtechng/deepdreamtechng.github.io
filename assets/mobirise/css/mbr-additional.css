@@ -1395,12 +1395,90 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-rTy9J4IbsX .mbr-text {
-  color: #767676;
+  color: #232323;
   margin: 0;
   padding-top: 1.5rem;
 }
 .cid-rTy9J4IbsX div.b {
   padding-top: 2rem;
+}
+.cid-rTBmKPCGK4 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rTBmKPCGK4 .row-links {
+  width: 100%;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rTBmKPCGK4 .social-row {
+  width: 100%;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rTBmKPCGK4 .media-container-row {
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.cid-rTBmKPCGK4 .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-rTBmKPCGK4 .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-rTBmKPCGK4 .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-rTBmKPCGK4 .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rTBmKPCGK4 .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-rTBmKPCGK4 .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rTBmKPCGK4 .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rTBmKPCGK4 .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rTBmKPCGK4 .media-container-row .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+.cid-rTBmKPCGK4 .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-rTBmKPCGK4 .media-container-row .row-copirayt p {
+  width: 100%;
 }
 .cid-rTATu9IrsB .navbar {
   padding: .5rem 0;
